@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aminul-islam-niloy.netlify.app](https://aminul-islam-niloy.netlify.app)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/4654659183905871658?blogID=6981959645943169916#allposts](https://www.blogger.com/blog/posts/4654659183905871658?blogID=6981959645943169916#allposts)
+- 📝 I regularly write articles on https://no-attribution.blogspot.com/
 
 - 💬 Ask me about **Art,illustator design,programming language,social media management and others about it & technology**
 
