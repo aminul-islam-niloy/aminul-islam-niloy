@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Art and Design Selling shutterstock](https://www.shutterstock.com/account/profile)
 
-- 🌱 I’m currently learning ** c++ Node.js and Express.js python c# **
+- 🌱 I’m currently learning ** c++, c#, Dot net technology, python c# **
 
-- 🤝 I’m looking for help with **Python,Node.js and Express c++ and android development**
+- 🤝 I’m looking for help with ** c# .net, python, c++ and App development**
 
 - 👨‍💻 All of my projects are available at [https://aminul-islam-niloy.netlify.app](https://aminul-islam-niloy.netlify.app)
 
 - 📝 I regularly write articles on https://no-attribution.blogspot.com/
 
-- 💬 Ask me about **Art,illustator design,programming language,social media management and others about it & technology, **
+- 💬 Ask me about **Art, illustrator design, programming language, social media management, and others about it & technology, **
 
 - 📫 How to reach me **niloyftaminul@gmail.com**
 
