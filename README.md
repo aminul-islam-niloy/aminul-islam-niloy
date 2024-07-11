@@ -22,7 +22,7 @@
       <p align="left">
         🌱 Currently learning: <strong>ASP.NET Core, C#, Azure</strong> <br/>
         👨‍💻 All my projects are available at: <a href="https://aminul-islam-niloy.netlify.app">aminul-islam-niloy.netlify.app</a> <br/>
-        💬 Ask me about: <strong>C#, ASP.NET Core, Python, C++, Kotlin</strong> <br/>
+        💬 Ask me about: <strong>C#, ASP.NET Core, Python, C++</strong> <br/>
         📫 Reach me at: <a href="mailto:niloyftaminul@gmail.com">niloyftaminul@gmail.com</a> <br/>
         ⚡ Fun fact: I think I am funny
       </p>
