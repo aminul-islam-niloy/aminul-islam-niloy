@@ -4,12 +4,12 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%" style="text-align: right; padding-right: 20px;">
+    <td valign="top" width="50%" style="text-align: right; padding-right: 10px;">
       <p align="right">
-        <a href="https://github.com/aminul-islam-niloy/Organic-Option.git">🔭 Currently working on: Organic Option (Ecommerce Platform)</a>
+        <a href="https://github.com/aminul-islam-niloy/Organic-Option.git">🔭 Currently working on: Organic Option</a>
       </p>
       <p align="right">
-        <a href="https://github.com/aminul-islam-niloy/Movie-Hub.git">👯 Looking to collaborate on: Movie Hub (For Movie and Series)</a>
+        <a href="https://github.com/aminul-islam-niloy/Movie-Hub.git">👯 Looking to collaborate on: Movie Hub</a>
       </p>
       <p align="right">
         <a href="https://github.com/aminul-islam-niloy/GEO-Location-Service.git">🤝 Need help with: GEO-Location-Service</a>
@@ -18,7 +18,7 @@
         🌱 Currently learning: <strong>ASP.NET Core, C#, Azure</strong>
       </p>
     </td>
-    <td valign="top" width="50%" style="text-align: left; padding-left: 20px;">
+    <td valign="top" width="50%" style="text-align: left; padding-left: 10px;">
       <p align="left">
         🌱 Currently learning: <strong>ASP.NET Core, C#, Azure</strong> <br/>
         👨‍💻 All my projects are available at: <a href="https://aminul-islam-niloy.netlify.app">aminul-islam-niloy.netlify.app</a> <br/>
@@ -110,19 +110,13 @@
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul-islam-niloy&show_icons=true&locale=en" alt="aminul-islam-niloy" />
     </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-islam-niloy&" alt="aminul-islam-niloy" />
-    </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-islam-niloy&" alt="aminul-islam-niloy" />
-    </td>
-  </tr>
-</table>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-islam-niloy&" alt="aminul-islam-niloy" /></p>
+
+
 
 
 
