@@ -104,12 +104,15 @@
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul-islam-niloy&show_icons=true&locale=en" alt="aminul-islam-niloy" />
     </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-islam-niloy&" alt="aminul-islam-niloy" />
+    </td>
   </tr>
 </table>
 
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/niloyftamiK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niloyftamiK" /></a></p><br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-islam-niloy&" alt="aminul-islam-niloy" /></p>
 
 
 
