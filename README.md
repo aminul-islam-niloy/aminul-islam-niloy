@@ -35,9 +35,9 @@
       </p>
     </td>
     <td valign="top" width="50%" style="text-align: left; padding-left: 10px;">
-      <p align="center">
+     <p align="left">
         🌱 Currently learning: <strong>ASP.NET Core, C#, Azure</strong> <br/>
-        👨‍💻 My Project and Blog: <a href="https://aminul-islam-niloy.netlify.app">aminul-islam-niloy.netlify.app</a> <br/>
+        👨‍💻 All my projects are available at: <a href="https://aminul-islam-niloy.netlify.app">aminul-islam-niloy.netlify.app</a> <br/>
         💬 Ask me about: <strong>C#, ASP.NET Core, Python, C++</strong> <br/>
         📫 Reach me at: <a href="mailto:niloyftaminul@gmail.com">niloyftaminul@gmail.com</a> <br/>
         ⚡ Fun fact: I think I am funny
