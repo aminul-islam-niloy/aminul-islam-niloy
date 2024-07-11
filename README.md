@@ -35,7 +35,7 @@
       </p>
     </td>
     <td valign="top" width="50%" style="text-align: left; padding-left: 10px;">
-      <p align="left">
+      <p align="center">
         🌱 Currently learning: <strong>ASP.NET Core, C#, Azure</strong> <br/>
         👨‍💻 All my projects are available at: <a href="https://aminul-islam-niloy.netlify.app">aminul-islam-niloy.netlify.app</a> <br/>
         💬 Ask me about: <strong>C#, ASP.NET Core, Python, C++</strong> <br/>
@@ -98,9 +98,6 @@
 </br>
 <table>
   <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminul-islam-niloy&show_icons=true&locale=en&layout=compact" alt="aminul-islam-niloy" />
-    </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul-islam-niloy&show_icons=true&locale=en" alt="aminul-islam-niloy" />
     </td>
