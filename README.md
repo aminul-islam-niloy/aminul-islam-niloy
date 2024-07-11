@@ -48,12 +48,7 @@
 </hr>
   <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> 
-  </a> &nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> 
-  </a> &nbsp;
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
   </a> &nbsp;
@@ -99,6 +94,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
   </a> &nbsp;
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> 
+  </a> &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
   </a> 
@@ -112,6 +110,14 @@
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul-islam-niloy&show_icons=true&locale=en" alt="aminul-islam-niloy" />
     </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-islam-niloy&" alt="aminul-islam-niloy" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-islam-niloy&" alt="aminul-islam-niloy" />
     </td>
