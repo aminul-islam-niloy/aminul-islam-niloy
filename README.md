@@ -16,17 +16,34 @@
   </a>
 </div>
 
-</br>
-<a href="https://github.com/aminul-islam-niloy/Organic-Option.git">🔭 Currently working on: Organic Option</a><br/>
-<a href="https://github.com/aminul-islam-niloy/Movie-Hub.git">👯 Looking to collaborate on: Movie Hub</a><br/>
-<a href="https://github.com/aminul-islam-niloy/GEO-Location-Service.git">🤝 Need help with: GEO-Location-Service</a>
 
- 🌱 Currently learning: <strong>ASP.NET Core, Angular 18, Azure</strong><br/>
- 👨‍💻 All my projects are available at: <a href="https://aminul-islam-niloy.github.io/My-Portfolio/">Aminul-islam-niloy Portfolio</a><br/>
-💬 Ask me about: <strong>C#, ASP.NET Core, Python, C++</strong><br/>
-📫 Reach me at: <a href="mailto:niloyftaminul@gmail.com">niloyftaminul@gmail.com</a><br/>
-⚡ Fun fact: I think I am funny
-  
+<div align="center">
+  <p>A B.Sc Computer Science and Engineering student, passionate about software development and design, and preparing for a career as a .NET Software Developer.</p>
+</div>
+
+
+### 💻 Currently Developing
+I’m actively working on some exciting projects:
+[🌿 Organic Option](https://github.com/aminul-islam-niloy/Organic-Option.git)
+[🧭 Amar Ovijog](https://github.com/aminul-islam-niloy/Amar-Ovijog.git)
+[💬 Chatting Application](https://github.com/aminul-islam-niloy/GEO-Location-Service.git)
+
+
+#### 🔍 Problem Solving Practice on: [LeetCode](https://www.leetcode.com/niloyftaminul) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" height="20" alt="LeetCode logo" />
+
+
+### 📚 Additional Information
+- 🌱 **Currently learning**: ASP.NET Core, Angular 18, Azure
+- 👨‍💻 **All my projects** are available at my [Portfolio](https://aminul-islam-niloy.github.io/My-Portfolio/)
+- 💬 **Ask me about**: C#, ASP.NET Core, Python, C++
+- 📫 **Reach me at**: [niloyftaminul@gmail.com](mailto:niloyftaminul@gmail.com)
+- ⚡ **Fun fact**: I think I am funny 😄
+
+---
+
+<div align="center">
+  <h4>Thanks for stopping by! Connect with me on GitHub and explore my projects!</h4>
+</div>
 
   <h3 align="center">Connect with me</h3>
   <p align="center">
