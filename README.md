@@ -18,34 +18,7 @@
 
 
 </br>
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%" style="text-align: right; padding-right: 10px;">
-      <p align="right">
-        <a href="https://github.com/aminul-islam-niloy/Organic-Option.git">🔭 Currently working on: Organic Option</a>
-      </p>
-      <p align="right">
-        <a href="https://github.com/aminul-islam-niloy/Movie-Hub.git">👯 Looking to collaborate on: Movie Hub</a>
-      </p>
-      <p align="right">
-        <a href="https://github.com/aminul-islam-niloy/GEO-Location-Service.git">🤝 Need help with: GEO-Location-Service</a>
-      </p>
-         <p align="right">
-        <a href="https://github.com/aminul-islam-niloy/GEO-Location-Service.git">🤝 Need help with: GEO-Location-Service</a>
-      </p>
-   
-    </td>
-    <td valign="top" width="50%" style="text-align: left; padding-left: 10px;">
-     <p align="left">
-        🌱 Currently learning: <strong>ASP.NET Core, Angular 18, Azure</strong> <br/>
-        👨‍💻 All my projects are available at: <a href="https://aminul-islam-niloy.github.io/My-Portfolio/">Aminul-islam-niloy Portfolio</a> <br/>
-        💬 Ask me about: <strong>C#, ASP.NET Core, Python, C++</strong> <br/>
-        📫 Reach me at: <a href="mailto:niloyftaminul@gmail.com">niloyftaminul@gmail.com</a> <br/>
-        ⚡ Fun fact: I think I am funny
-      </p>
-    </td>
-  </tr>
-</table>
+
 
 
 
