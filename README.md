@@ -33,11 +33,11 @@ I’m actively working on some exciting projects:
 
 
 ### 📚 Additional Information
-- 🌱 **Currently learning**: ASP.NET Core, Angular 18, Azure
-- 👨‍💻 **All my projects** are available at my [Portfolio](https://aminul-islam-niloy.github.io/My-Portfolio/)
-- 💬 **Ask me about**: C#, ASP.NET Core, Python, C++
-- 📫 **Reach me at**: [niloyftaminul@gmail.com](mailto:niloyftaminul@gmail.com)
-- ⚡ **Fun fact**: I think I am funny 😄
+🌱 **Currently learning**: ASP.NET Core, Angular 18, Azure <br>
+👨‍💻 **All my projects** are available at my [Portfolio](https://aminul-islam-niloy.github.io/My-Portfolio/) <br>
+💬 **Ask me about**: C#, ASP.NET Core, Python, C++ <br>
+📫 **Reach me at**: [niloyftaminul@gmail.com](mailto:niloyftaminul@gmail.com) <br>
+⚡ **Fun fact**: I think I am funny 😄
 
 ---
 
