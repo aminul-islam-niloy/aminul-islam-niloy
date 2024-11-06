@@ -30,13 +30,11 @@
       <p align="right">
         <a href="https://github.com/aminul-islam-niloy/GEO-Location-Service.git">🤝 Need help with: GEO-Location-Service</a>
       </p>
-      <p align="right">
-        🌱 Currently learning: <strong>ASP.NET Core, C#, Azure</strong>
-      </p>
+   
     </td>
     <td valign="top" width="50%" style="text-align: left; padding-left: 10px;">
      <p align="left">
-        🌱 Currently learning: <strong>ASP.NET Core, C#, Azure</strong> <br/>
+        🌱 Currently learning: <strong>ASP.NET Core, Angular 18, Azure</strong> <br/>
         👨‍💻 All my projects are available at: <a href="https://aminul-islam-niloy.github.io/My-Portfolio/">Aminul-islam-niloy Portfolio</a> <br/>
         💬 Ask me about: <strong>C#, ASP.NET Core, Python, C++</strong> <br/>
         📫 Reach me at: <a href="mailto:niloyftaminul@gmail.com">niloyftaminul@gmail.com</a> <br/>
@@ -89,6 +87,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
