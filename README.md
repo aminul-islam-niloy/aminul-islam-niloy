@@ -26,7 +26,7 @@
 I’m actively working on some exciting projects:
 [🌿 Organic Option](https://github.com/aminul-islam-niloy/Organic-Option.git)
 [🧭 Amar Ovijog](https://github.com/aminul-islam-niloy/Amar-Ovijog.git)
-[💬 Chatting Application](https://github.com/aminul-islam-niloy/GEO-Location-Service.git)
+[💬 Chatting Application](https://github.com/aminul-islam-niloy/Chat-Application.git)
 
 
 #### 🔍 Problem Solving Practice on: [LeetCode](https://www.leetcode.com/niloyftaminul) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" height="20" alt="LeetCode logo" />
