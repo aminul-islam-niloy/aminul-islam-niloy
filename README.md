@@ -1,5 +1,5 @@
 <h2 align="center">Aminul Islam Niloy</h2>
-<h4 align="center">Designer | Dot Net Developer</h4>
+<h4 align="center">Jr. Software Engineer ||.Net Core  </h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aminul-haque122" target="_blank">
@@ -33,6 +33,7 @@ I’m actively working on some exciting projects:
 
 
 ### 📚 Additional Information
+**Currently Working On**:Vonome Software & Systems<br>
 🌱 **Currently learning**: ASP.NET Core, Angular 18, Azure <br>
 👨‍💻 **All my projects** are available at my [Portfolio](https://aminul-islam-niloy.github.io/My-Portfolio/) <br>
 💬 **Ask me about**: C#, ASP.NET Core, Python, C++ <br>
