@@ -8,7 +8,7 @@
   <a href="https://instagram.com/aminul_islam_122" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://fb.com/aminulislamniloy12" target="_blank">
+  <a href="www.facebook.com/aminulislamniloy122" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
   <a href="https://discord.gg/aminul5284" target="_blank">
