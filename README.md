@@ -1,5 +1,5 @@
 <h2 align="center">Aminul Islam Niloy</h2>
-<h4 align="center">Jr. Software Engineer ||.Net Core  </h4>
+<h4 align="center">Jr. Software Engineer || .Net Core  </h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aminul-haque122" target="_blank">
