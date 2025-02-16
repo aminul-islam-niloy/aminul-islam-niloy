@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <p>A B.Sc Computer Science and Engineering student, passionate about software development and design, and preparing for a career as a .NET Software Developer.</p>
+  <p>A B.Sc Computer Science and Engineering student, passionate about software development and design, and  .NET Software Engineer </p>
 </div>
 
 
