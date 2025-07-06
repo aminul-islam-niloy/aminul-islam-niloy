@@ -1,5 +1,5 @@
 <h2 align="center">Aminul Islam Niloy</h2>
-<h4 align="center">Jr. Software Engineer || .Net Core  </h4>
+<h4 align="center"> Software Engineer || .Net Core  </h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aminul-haque122" target="_blank">
@@ -18,15 +18,16 @@
 
 
 <div align="center">
-  <p>A B.Sc Computer Science and Engineering student, passionate about software development and design, and  .NET Software Engineer </p>
+  <p>a Full-Stack Software Engineer with strong experience in ASP.NET Core, Angular, PostgreSQL MS SQL Server, and real-time systems using SignalR</p>
 </div>
 
 
 ### 💻 Currently Developing
 I’m actively working on some exciting projects:
+[🫂 CommuniTrader](https://lite.communitrader.com)
+[🚚 Park Quickly](https://parkquickly.com/)
 [🌿 Organic Option](https://github.com/aminul-islam-niloy/Organic-Option.git)
-[🧭 Amar Ovijog](https://github.com/aminul-islam-niloy/Amar-Ovijog.git)
-[💬 Chatting Application](https://github.com/aminul-islam-niloy/Chat-Application.git)
+[🧾 Invoice 360](https://invoice360.xyz/)
 
 
 #### 🔍 Problem Solving Practice on: [LeetCode](https://www.leetcode.com/niloyftaminul) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" height="20" alt="LeetCode logo" />
@@ -64,25 +65,25 @@ I’m actively working on some exciting projects:
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" width="30" alt="dot-net logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="30" alt="csharp logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="30" alt="c logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="30" alt="cplusplus logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="30" alt="angular logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="bootstrap logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="30" alt="azure logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="30" alt="docker logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="30" alt="kubernetes logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="git logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="30" alt="gitlab logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="30" alt="visualstudio logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="30" alt="postgresql logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="30" alt="microsoftsqlserver logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="30" alt="jira logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="30" alt="illustrator logo" style="margin-right:12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="30" alt="canva logo" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="40" alt="dot-net logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="40" alt="angular logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="bootstrap logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="40" alt="azure logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" width="50" alt="docker logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="kubernetes logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="40" alt="gitlab logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40" alt="visualstudio logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo" style="margin-right:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="microsoftsqlserver logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="40" alt="jira logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="40" alt="illustrator logo" style="margin-right:18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="canva logo" style="margin-right:18px;" />
 </div>
 
  
